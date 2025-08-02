@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @susani-01
 - 👀 I’m interested in AI and machine learning.
-- 🌱 I’m currently learning python and C++.
 - 💞️ I’m looking to collaborate on AI and machine learning projects.
 - 📫 How to reach me facebook @antony susani,instagram@tiny_pop1.
 
